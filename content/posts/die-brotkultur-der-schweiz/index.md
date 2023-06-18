@@ -9,6 +9,8 @@ footnotes = "#### Quellenangaben\n\n\r\n\r\n* Bäckerei Röthlisberger: *Startse
 +++
 # Die Brotkultur der Schweiz
 
+
+
 {{<lead>}}
 Was ist heiss und knusprig? Richtig, ein altes Weggli in der Mikrowelle. Ein Blick auf eine regionale Bäckerei in Bern und die Geschichte hinter einem der beliebtesten Schweizer Gebäcke. 
 {{</lead>}}
@@ -18,7 +20,7 @@ Was ist heiss und knusprig? Richtig, ein altes Weggli in der Mikrowelle. Ein Bli
 
 
 
-Ob nun vom Sportunterricht in der Schönau zurückgeschlendert, auf dem Weg zur Arbeit daran vorbeifahren oder nach einem stressigen Tag etwas Süsses für die Nerven gebraucht wird, die Bäckerei Röthlisberger lädt mit den niedlichen Rundtischen und Stühlen zum Ausspannen und Geniessen ein. Auch im Gebäude selbst laden Sitzgelegenheiten und stetig aktuelle und abwechslungsreiche Dekorationen zum Bleiben ein. Wenn man den Laden betritt, ist das Erste, was zu sehen ist, die Theke, hinter der am Standort Kirchenfeld meistens eine ältere Dame und ein Knabe in der Ausbildung stehen, die dort Wünsche entgegennehmen und erfüllen. Links am fester befindet sich der innere Aufenthaltsbereich, der durch dekorierte Holzkisten vom Rest des Ladens abgetrennt ist. Hinten links in der Ecke steht ein hohes gekühltes Regal mit Getränken alle Art. Der Raum ist wohltemperiert und es liegt eine rundum entspannte Stimmung in der Luft, die Zeit scheint langsamer zu vergehen. Vom grossen Tresen in der Mitte der hinteren Wand lachen einen Sandwiches mit Käse- und Schinkenfüllung an. Der Duft von frischen Gebäcken zieht durch den Raum. 
+Ob nun vom Sportunterricht in der Schönau zurückgeschlendert, auf dem Weg zur Arbeit daran vorbeigefahren oder nach einem stressigen Tag etwas Süsses für die Nerven gebraucht wird, die Bäckerei Röthlisberger lädt mit den niedlichen Rundtischen und Stühlen zum Ausspannen und Geniessen ein. Auch im Gebäude selbst laden Sitzgelegenheiten und stetig aktuelle und abwechslungsreiche Dekorationen zum Bleiben ein. Wenn man den Laden betritt, ist das Erste, was zu sehen ist, die Theke, hinter der am Standort Kirchenfeld meistens eine ältere Dame und ein Knabe in der Ausbildung stehen, die dort Wünsche entgegennehmen und erfüllen. Links am fester befindet sich der innere Aufenthaltsbereich, der durch dekorierte Holzkisten vom Rest des Ladens abgetrennt ist. Hinten links in der Ecke steht ein hohes gekühltes Regal mit Getränken alle Art. Der Raum ist wohltemperiert und es liegt eine rundum entspannte Stimmung in der Luft, die Zeit scheint langsamer zu vergehen. Vom grossen Tresen in der Mitte der hinteren Wand lachen einen Sandwiches mit Käse- und Schinkenfüllung an. Der Duft von frischen Gebäcken zieht durch den Raum. 
 
 
 
@@ -61,13 +63,11 @@ Eine inoffizielle Befragung einiger Leute am und ums Gymnasium Kirchenfeld hat e
 {{<box>}}
 
 
-
 ### Das Weggli
 
 
 
-Das Weggli ist vielerorts beliebt und ist daher auch unter vielen Namen bekannt. Was in den meisten Regionen ein Weggli ist, ist im Graubünden ein Milchbrötchen und in Basel ein Schwöbli oder noch eigenartiger, ein Mutschli für die Leute aus einigen Teilen Unterwaldens, wo doch eigentlich alle wissen, dass ein Mutschli und ein Weggli nicht dasselbe sind. Doch trotz der unterschiedlichen Namen ist das Brot an sich wie jedes andere Brot, mit den Hauptzutaten Wasser, Mehl und Hefe, doch was es so speziell macht sind die Butter und das Milchpulver die dazugegeben werden, zusammen mit einer Prise Salz als Geschmacksverstärker, die zusammen dem Weggli seinen Geschmack und diese weiche Konsistenz verleihen. Das Weggli ist heutzutage eines der wohl meistgeliebten Gebäcke der Schweizer. Doch Weggli waren nicht immer so frei zugängig wie sie heute sind. Bis in das 20. Jahrhundert waren Weggli nämlich Luxusprodukte, da sie aus Weissmehl bestehen. Weissmehl war zu der Zeit wesentlich teurer als anderes Mehl, was dazu führte das Wegglis teuer waren. Bis heute gibt es einige Sprichwörter welche sich auf Weggli beziehen, was zeigt, dass Weggli schon immer beliebt waren. Ein Sprichwort, welches einigen bekannt sein wird, ist «den Fünfer und das Weggli haben wollen». Das Sprichwort bezieht sich auf den damaligen Preis eines Wegglis und sagt aus, dass jemand zwei Sachen gleichzeitig haben möchte, obwohl man das erste für das zweite abgeben müsste.
- 
+Das Weggli ist vielerorts beliebt und ist daher auch unter vielen Namen bekannt. Was in den meisten Regionen ein Weggli ist, ist im Graubünden ein Milchbrötchen und in Basel ein Schwöbli oder noch eigenartiger, ein Mutschli für die Leute aus einigen Teilen Unterwaldens, wo doch eigentlich alle wissen, dass ein Mutschli und ein Weggli nicht dasselbe sind. Doch trotz der unterschiedlichen Namen ist das Brot an sich wie jedes andere Brot, mit den Hauptzutaten Wasser, Mehl und Hefe, doch was es so speziell macht sind die Butter und das Milchpulver die dazugegeben werden, zusammen mit einer Prise Salz als Geschmacksverstärker, die zusammen dem Weggli seinen Geschmack und diese weiche Konsistenz verleihen. Das Weggli ist heutzutage eines der wohl meistgeliebten Gebäcke der Schweizer. Doch Weggli waren nicht immer so frei zugängig wie sie heute sind. Bis in das 20. Jahrhundert waren Weggli nämlich Luxusprodukte, da sie aus Weissmehl bestehen. Weissmehl war zu der Zeit wesentlich teurer als anderes Mehl, was dazu führte das Wegglis teuer waren. Bis heute gibt es einige Sprichwörter welche sich auf Weggli beziehen, was zeigt, dass Weggli schon immer beliebt waren. Ein Sprichwort, welches einigen bekannt sein wird, ist «den Fünfer und das Weggli haben wollen». Das Sprichwort bezieht sich auf den damaligen Preis eines Wegglis und sagt aus, dass jemand zwei Sachen gleichzeitig haben möchte, obwohl man das erste für das zweite abgeben müsste. 
 
 {{</box>}}
 
@@ -83,12 +83,10 @@ Vor etwa 10'000 Jahren begannen Menschen auf dem sogenannten fruchtbaren Halbmon
 
 {{<box>}}
 
-
 ### Das Wirkungsprinzip der Hefe
 
 
 Jeder Brotteig besteht im wesentlichem aus nur drei Zutaten, Wasser, Mehl und Hefe. Das Mehl muss den Eiweissstoff Gluten enthalten, der beim Kneten mit Wasser dafür verantwortlich ist das der Teig kleberig und zäh wird, er wirkt quasi als natürlicher Klebstoff. Der Teig muss deshalb so zäh sein, damit Gase nicht so leicht entweichen können. Das Kneten hat zusätzlich die Funktion, Sauerstoffbläschen im Teig einzuschliessen. Die Luft ist nötig damit die letzte Zutat, die Hefe, ihr volles Potential erreichen kann. Hefe sind kleine einzellige Pilze, die mit ihren Enzymen die Langkettigen Stärkemoleküle im Mehl in den Einfachzucker Glucose spalten, welchen sie dann mithilfe von Sauerstoff zu CO2 metabolisiert. Dieses CO2 benötigt mehr Platz als der Zucker, so bilden sich Gasblasen die beim Backen durch die hohe Temperatur nochmals ihr Volumen vergrössern bevor der Teig fest wird und diese feine Struktur der Gasblasen verfestigt, so dass das Brot auch nach dem Abkühlen seine luftige Struktur behält. 
-
 {{</box>}}
 
 Wenn die Welt der Bäckereien betreten wird, ist es fast unmöglich sich nicht von verlockenden Düften und Aromen verlocken zu lassen. Auch wenn die Backwaren aus einer Bäckerei teurer sein mögen als die aus der Migros oder dem Coop, lohnt es sich trotzdem Gebäcke aus regionalen Bäckereien zu beziehen.  Bäckereien sind ein wichtiger Teil der Schweizer Gesellschaft und bieten eine gemütliche Alternative zu den Migroweggli, die in einer ständig hektischen und auf Effizient getrimmten Welt, eine Minute zum Aufatmen und Entspannen bietet. In Bäckereien sind nicht nur Brot und andere Gebäcke zu finden, sondern auch eine Geschichte des Handwerks, der Tradition und vor allem des Genusses. 
